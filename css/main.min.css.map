@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACCA,AAAA,gBAAgB,AAAC,CAEb,UAAU,CAAE,IAAI,CAEnB,ACLA,AAAA,IAAI,AAAC,CACJ,WAAW,CAAE,iCAAiC,CAC9C,KAAK,CAAE,OAAO,CACd,eAAe,CAAE,IAAI,CACpB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/utils/_visually-hidden.scss",
+        "../sass/base/_common.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
