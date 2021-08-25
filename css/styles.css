@@ -200,7 +200,7 @@ ul {
 } 
 
 */
- .header__navigation__menu .navigation-item:not(last-child) {
+ .header__navigation__menu .header__navigation__menu:not(last-child) {
   margin-right: 46px;
 } 
 
